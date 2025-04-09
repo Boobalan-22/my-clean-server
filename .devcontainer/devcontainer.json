@@ -1,0 +1,12 @@
+{
+    "name": "Clean Ubuntu Server",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {},
+    "customizations": {
+        "vscode": {
+            "extensions": []
+        }
+    }
+}
